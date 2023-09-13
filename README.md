@@ -78,6 +78,8 @@ yarn start
 
 The app will be available on a specified port, typically http://localhost:3000
 
+
+Make sure to update the backend url in the `.env.local` file based on what you have configured in the backend application
 ### Advantages
 
 Running the app in a production environment offers the following advantages over the development configuration:
